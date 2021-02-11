@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Basic Bank App</string>
+    <string name="todo">TODO</string>
+    <string name="view_all">View All Customers</string>
+    <string name="bank_transactions">Click here for bank transactions</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="history">Transaction History</string>
+    <string name="search">Search</string>
+    <string name="no_history">No history</string>
+    <string name="bank_name">Sparks Foundation Bank</string>
+    <string name="customer_name">Customer Name:</string>
+    <string name="account_number">Account Number:</string>
+    <string name="account_balance">Account Balance:</string>
+</resources>
