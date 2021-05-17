@@ -1,7 +1,7 @@
 # BasicBankApp
 Basic Banking app made under Graduate Rotational internship ( GRIPFEB21 )  as a part of Mobile Application development internship offered by The Sparks Foundation .
 
-#About
+# About
 A mobile app which has the following features
 - contains 10 users initially in the sqlite database 
 - users have fields like name , email , current balance , account number , isfc code and phone number 
