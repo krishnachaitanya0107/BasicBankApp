@@ -8,4 +8,4 @@ Built with
 - SQLite for database
 
 # Demonstration
-if you wish to see a demonstration of this project , [click here] (https://www.linkedin.com/posts/krishna-chaitanya-0107_gripfeb21-tsf-grip-activity-6765558620252909568-aV7e)
+if you wish to see a demonstration of this project , [click here](https://www.linkedin.com/posts/krishna-chaitanya-0107_gripfeb21-tsf-grip-activity-6765558620252909568-aV7e)
