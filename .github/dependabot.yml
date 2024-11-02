@@ -10,4 +10,4 @@ updates:
     schedule:
       interval: "weekly"
     commit-message:
-      prefix: "[Dependabot Security update]"
+      prefix: "[Security update]"
